@@ -3,6 +3,7 @@ body {
 	background-color: #000;
 	background-image: url("bg.jpg");
 	background-repeat: no-repeat;
+    background-size: cover;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
